@@ -1,3 +1,11 @@
+.. image:: https://travis-ci.org/McNeight/py65.svg?branch=master
+   :target: https://travis-ci.org/McNeight/py65
+   :alt: Build Status
+
+.. image:: https://landscape.io/github/McNeight/py65/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/McNeight/py65/master
+   :alt: Code Health
+
 Py65
 ====
 
